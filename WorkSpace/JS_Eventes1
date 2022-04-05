@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        
+        <h2>JavaScript HTML Events</h2>
+        <button onclick="document.getElementById('DEMO').innerHTML=Date()">La Hora es?</button>
+
+        <p id="DEMO"></p>
+
+    </body>
+</html>
